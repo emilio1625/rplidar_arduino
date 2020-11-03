@@ -1,0 +1,16 @@
+{
+    "name": "RPLidar",
+    "keywords": "rplidar, arduino",
+    "description": "Arduino Library to interface with the RPLIDAR",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/emilio1625/MotorControlShield.git"
+    },
+    "authors": [
+        {
+            "name": "RoboPeak"
+        }
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino"
+}
